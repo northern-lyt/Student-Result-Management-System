@@ -1,6 +1,8 @@
 # Student-Result-Management-System
 Student Result Management System written in C language in MCA first year, Punjab University.
 
+This project will have single interface, for the user. This project has various functions to maintain and create student’s record/result card such as to add, delete, modify and search a record. Also, it will have a function to display result of student individually and division wise.
+The project is handled by a single person who handles all the functions. It is password protected because content has to be protected and details or changes can be made by only the office person. It is for office purpose only. 
 Using C and File Handing concept developed a basic management system that can perform following functions such as 
 
 ## Main menu
